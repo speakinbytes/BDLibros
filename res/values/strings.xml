@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BDLibros</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_book">Show Book</string>
+    <string name="title_activity_edit_book">Edit Book</string>
+    
+    <!-- Main Activity -->
+    <string name="newBookIntro">Nuevo Libro</string>
+    <string name="title">Título:</string>
+    <string name="titleExample">En el nombre del viento</string>
+    <string name="author">Autor:</string>
+    <string name="authorExample">Patrick Rothfuss</string>
+    <string name="createBook">Crear Libro</string>
+    <string name="isbn">ISBN</string>
+    <string name="isbnExample">978-84-9991-892-1</string>
+    <string name="listBooks">Listar libros</string>
+    <string name="results">Resultados</string>
+    <string name="notBooks">No hay libros guardados</string>
+    <string name="filterBooks">Filtrar</string>
+    <string name="info">ListView de libros. OnItemClick activo.</string>
+    <string name="infoNotBooks">Todavía no has creado ningún libro</string>
+    
+    <!-- Show Book -->
+	<string name="editBook">Editar Libro</string>
+    <string name="deleteBook">Eliminar Libro</string>
+    <string name="showBooks">Ver lista de libros</string>
+    
+</resources>
